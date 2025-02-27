@@ -1,2 +1,4 @@
 # CS1332x1
-Data Structures &amp; Algorithms I: ArrayLists, LinkedLists, Stacks and Queues
+Data Structures and Algorithms I: ArrayLists, LinkedLists, Stacks and Queues
+
+This is a repository containing my work for Georgia Tech's CS1332 online course.
